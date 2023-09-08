@@ -1,0 +1,6 @@
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\senen\Documents\C#\Examen tecnico de desarrollo\SistemaDeAlumnado\CapaEntidad\obj\Debug\CapaEntidad.pdb
